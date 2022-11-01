@@ -33,7 +33,7 @@ _________________________________________________________________
  
  • The code is distributed in the hope that it will be useful, but **without any warranty (safety, correctness, etc)**.
  
- • Consider this book is a bit **old**, so it is better to read more recent resources # like ▶ **Deitel & Deitel - "C How To Program".**
+ • Consider this book is a bit **old**, so it is better to read more recent resources like ▶ **Deitel & Deitel - "C How To Program".**
  
  • and if you solved an exercise that i did not solved, you can **participate**: zmnierick@gmail.com 
  
